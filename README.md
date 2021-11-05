@@ -3,7 +3,7 @@ An unofficial implementation and experimentation on the model proposed in "Swapp
 
 A considerable portion of this project is performed thanks to [rosinality](https://github.com/rosinality/swapping-autoencoder-pytorch). The official implementation is also available. Details were provided by Park et al. in the [official GitHub repository](https://github.com/taesungp/swapping-autoencoder-pytorch).
 
-For further details of the architecture and training, please refer to the [paper](https://arxiv.org/abs/2007.00653) (2020).
+For further details of the architecture and training, please refer to the [paper](https://arxiv.org/abs/2007.00653).
 ```
 @article{DBLP:journals/corr/abs-2007-00653,
   author    = {Taesung Park and
