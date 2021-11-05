@@ -26,4 +26,15 @@ For further details of the architecture and training, please refer to the [paper
 }
 ```
 
-For further ablation studies, I tested the qualitative effects of patch size that is utilized by the Patch Cooccurrence Discriminator. The qualitative results can be found in the repository.
+## Qualitative Results with Changing Patch Sizes for the Cooccurrence Discriminaator:
+For further ablation studies, I tested the qualitative effects of patch size that is utilized by the Patch Cooccurrence Discriminator. The qualitative results can be found in the [results](https://github.com/erenovic/SADIM/tree/main/results):
+
+### <ins>Exact reconstruction with patch size 1/4:</ins>
+![Exact reconstruction with patch size 1/4](/results/exact_1_4.jpg)
+### <ins>Exact reconstruction with patch size 3/4:</ins>
+![Exact reconstruction with patch size 3/4](/results/exact_3_4.jpg)
+### <ins>Latent traverse with patch size 1/4:</ins>
+![Latent traverse with patch size 1/4](/results/traverse_1_4.jpg)
+### <ins>Latent traverse with patch size 3/4:</ins>
+![Latent traverse with patch size 3/4](/results/traverse_3_4.jpg)
+
